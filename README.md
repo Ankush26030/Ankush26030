@@ -13,7 +13,7 @@ I am The Developer and Owner of Nothing Development.
 
 ## Projects
 <a href = "https://discord.gg/hBvdRJgXzM">
-<img src="https://media.discordapp.net/attachments/1232075795695009947/1268125153699696640/standard.gif?ex=66ab4915&is=66a9f795&hm=6c9885f325ff0cafd9a49436a2aeadf10cc15f924b6a80003edf5b12114e96fa&" />
+<img src="https://media.discordapp.net/attachments/1231984607461773404/1272833486717325423/standard.gif?ex=66bc6a0f&is=66bb188f&hm=545a7d362c8ac232df4924b520e78915f6006074553beb51950a24c247df1dd7&" />
 </a>
 
 ## 🌐 Socials:
