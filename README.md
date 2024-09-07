@@ -1,4 +1,4 @@
-### [Hey There I am Ankush Santra](https://discord.gg/hBvdRJgXzM)
+### [Hey There I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
 
 <!-- <a href="https://discord.com/users/829008198232178699">
 <img src="https://discord.c99.nl/widget/theme-3/762146129927340052.png" alt="Discord"/>
