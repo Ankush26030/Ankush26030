@@ -1,15 +1,13 @@
-### [Hey There I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
+## [Hey There I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
 
 <!-- <a href="https://discord.com/users/829008198232178699">
 <img src="https://discord.c99.nl/widget/theme-3/762146129927340052.png" alt="Discord"/>
 </a> -->
 
-I am The Developer & Owner Of Nothing Development.
-
 ## About Me:
 
-- Learning Coding...
-- A person who loves to Code & Code...
+- I’m **The Developer & Owner Of Nothing Development**
+- Contact : **ankush26030@gmail.com**
 
 ## Projects
 <a href = "https://discord.gg/hBvdRJgXzM">
