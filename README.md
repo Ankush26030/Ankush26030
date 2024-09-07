@@ -1,8 +1,6 @@
-### [Hey There I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- <a href="https://discord.com/users/829008198232178699">
-<img src="https://discord.c99.nl/widget/theme-3/762146129927340052.png" alt="Discord"/>
-</a> -->
+### [Hey There I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
 
 ## About Me:
 
