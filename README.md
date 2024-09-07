@@ -7,7 +7,7 @@
 - I’m **The Developer & Owner Of Nothing Development**
 - Contact : **ankush26030@gmail.com**
 
-## Projects
+## Projects:
 - **NOTHING MUSIC BOT**
 
 ## 🌐 Socials:
