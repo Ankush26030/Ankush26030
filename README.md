@@ -10,7 +10,7 @@
 - 📞 Contact : **ankush26030@gmail.com**
 
 - ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/829008198232178699) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ==)
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/829008198232178699) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ==)
 
 - **Tech Stack:**
 
