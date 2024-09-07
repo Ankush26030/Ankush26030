@@ -8,9 +8,6 @@
 - Contact : **ankush26030@gmail.com**
 
 ## Projects
-<a href = "https://discord.gg/hBvdRJgXzM">
-<img src="https://media.discordapp.net/attachments/1231984607461773404/1272833486717325423/standard.gif?ex=66bc6a0f&is=66bb188f&hm=545a7d362c8ac232df4924b520e78915f6006074553beb51950a24c247df1dd7&" />
-</a>
 - **NOTHING MUSIC BOT**
 
 ## 🌐 Socials:
