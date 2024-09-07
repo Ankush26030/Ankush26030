@@ -4,7 +4,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/762146129927340052.png" alt="Discord"/>
 </a> -->
 
-I am The Developer and Owner of Nothing Development.
+I am The Developer & Owner Of Nothing Development.
 
 ## About Me:
 
