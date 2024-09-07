@@ -3,7 +3,7 @@
 
 **Information:**
 - 🔭 I’m **The Developer & Owner Of Nothing Development**
-- 🌱 I’m currently learning  **Python**
+- 🌱 I’m Currently Learning  **Python**
 - 📞 Contact : **ankush26030@gmail.com**
 
 - **Tech Stack:**
