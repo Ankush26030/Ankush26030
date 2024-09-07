@@ -11,6 +11,7 @@
 <a href = "https://discord.gg/hBvdRJgXzM">
 <img src="https://media.discordapp.net/attachments/1231984607461773404/1272833486717325423/standard.gif?ex=66bc6a0f&is=66bb188f&hm=545a7d362c8ac232df4924b520e78915f6006074553beb51950a24c247df1dd7&" />
 </a>
+- **NOTHING MUSIC BOT**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/829008198232178699) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ==) 
