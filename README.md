@@ -6,7 +6,7 @@
 
 **Information:**
 - 🔭 I’m **The Developer & Owner Of Nothing Development**
-- 🌱 I’m Currently Learning  **Python**
+- 🌱 I’m Currently Learning  **Python & Rust**
 - 📞 Contact : **ankush26030@gmail.com**
 
 - ## Projects:
