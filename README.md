@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-## [Hey There 👋, I am Prasenjit (Ankush) Santra](https://discord.gg/hBvdRJgXzM)
+## [Hey There 👋, I am Ankush](https://discord.gg/hBvdRJgXzM)
 
 ![](https://komarev.com/ghpvc/?username=imvanika)
 
