@@ -11,6 +11,8 @@
 
 - ## Projects:
 - **NOTHING MUSIC BOT**
+- **NOTHING PREMIUM MUSIC BOT**
+- **FLAME ALL IN ONE MULTIPURPOSE ANTINUKE SECURITY BOT**
 
 ## 🌐 Socials:
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/239496212699545601) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ==)
