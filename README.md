@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hey+There!+👋;I'm+Ankush;Developer+%26+Owner+of+Nothing+Development;Python+%26+Rust+Enthusiast&center=true&size=28&font=Fira%20Code&pause=1200&width=700" alt="typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hey+There!+👋;I'm+Ankush;Developer+%26+Owner+of+Nothing+Development;Python+%26+Rust+Enthusiast&center=true&size=28&font=Fira%20Code&pause=1200&width=700" alt="typing intro"/>
 </h1>
 
 <p align="center">
@@ -13,19 +13,19 @@
 
 <div align="center">
   
-🚀 <b>Passionate Developer & Founder of <i>Nothing Development</i></b> 🚀  
-Building innovative Discord bots and exploring Python & Rust.
+🚀 **Passionate Developer & Founder of *Nothing Development*** 🚀  
+*Building innovative Discord bots and exploring Python & Rust.*
 
 </div>
 
-## 🙋‍♂️ About
+## 🙋‍♂️ About Me
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 <b>The Developer & Owner</b> — <b>Nothing Development</b>
-- 🌱 Currently learning <b>Python</b> & <b>Rust</b>
-- 🎯 Focus: <b>Discord Bot Development</b>, automation, and moderation tooling
-- 💬 Ask about <b>JavaScript</b>, <b>Python</b>, <b>Discord.js</b>
-- 📞 Contact: <b>ankush26030@gmail.com</b>
+- 🔭 **The Developer & Owner** — **Nothing Development**
+- 🌱 Currently learning **Python** & **Rust**
+- 🎯 Focus: **Discord Bot Development**, automation, and moderation tooling
+- 💬 Ask about **JavaScript**, **Python**, **Discord.js**
+- 📞 Contact: **ankush26030@gmail.com**
 - ⚡ Fun: Creating music/security bots that make communities safer and more fun
 
 ## 🚀 Featured Projects
@@ -33,17 +33,17 @@ Building innovative Discord bots and exploring Python & Rust.
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎵 <b>NOTHING MUSIC BOT</b> | Advanced high-quality music bot with filters, queue control, 24/7 | Node.js, Discord.js, LavaLink |
-| 💎 <b>NOTHING PREMIUM/PRIME MUSIC BOT</b> | Premium commands, autoplay, playlists, multi-guild scaling | Node.js, MongoDB, Redis |
-| 🔥 <b>FLAME AIO ANTINUKE SECURITY BOT</b> | Multipurpose fastest antinuke, role/perm watch, audit & recovery | Node.js, Discord.js, MongoDB |
+| 🎵 **NOTHING MUSIC BOT** | Advanced high-quality music bot with filters, queue control, 24/7 | Node.js, Discord.js, LavaLink |
+| 💎 **NOTHING PREMIUM/PRIME MUSIC BOT** | Premium commands, autoplay, playlists, multi-guild scaling | Node.js, MongoDB, Redis |
+| 🔥 **FLAME AIO ANTINUKE SECURITY BOT** | Multipurpose fastest antinuke, role/perm watch, audit & recovery | Node.js, Discord.js, MongoDB |
 
 </div>
 
 ### 🎯 Highlights
-- ⚡ <b>Lightning fast</b> command handling & low latency playback
-- 🛡️ <b>Advanced security</b> with role lock, channel guard, webhook shield
-- 🎨 <b>User-friendly</b> help menus, buttons, and slash commands
-- 🔧 <b>Highly configurable</b> per-guild settings and permissions
+- ⚡ **Lightning fast** command handling & low latency playback
+- 🛡️ **Advanced security** with role lock, channel guard, webhook shield
+- 🎨 **User-friendly** help menus, buttons, and slash commands
+- 🔧 **Highly configurable** per-guild settings and permissions
 
 ## 🌐 Socials
 <p align="center">
@@ -62,6 +62,7 @@ Building innovative Discord bots and exploring Python & Rust.
 </p>
 
 ## 💻 Tech Stack
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -88,6 +89,7 @@ Building innovative Discord bots and exploring Python & Rust.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=imvanika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvanika&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvanika&theme=tokyonight" alt="streak"/>
 </p>
@@ -102,7 +104,7 @@ Building innovative Discord bots and exploring Python & Rust.
 ---
 
 <div align="center">
-  <h3>🎵 “Code is like music — when it's good, it resonates.”</h3>
+  <h3>🎵 "Code is like music — when it's good, it resonates."</h3>
   <b>Thanks for visiting! Open to collabs ✨</b>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="footer"/>
