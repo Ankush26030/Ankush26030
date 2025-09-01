@@ -4,14 +4,11 @@
 </p>
 
 <h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hey+There!+👋;I'm+Ankush;Developer+%26+Owner+of+Nothing+Development;Python+%26+Rust+Enthusiast&center=true&size=28&font=Fira%20Code&pause=1200&width=700" alt="typing intro"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hey+There!+👋;I'm+Ankush;Developer+%26+Owner+of+Nothing+Development;Python+%26+Rust+Enthusiast&center=true&size=28&font=Fira%20Code&pause=1200&width=700" alt="typing intro"/>
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imvanika&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/imvanika?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
 </p>
 
 <div align="center">
@@ -24,12 +21,12 @@ Building innovative Discord bots and exploring Python & Rust.
 ## 🙋‍♂️ About
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 <b>The Developer & Owner</b> — <b>Nothing Development</b>  
-- 🌱 Currently learning <b>Python</b> & <b>Rust</b>  
-- 🎯 Focus: <b>Discord Bot Development</b>, automation, and moderation tooling  
-- 💬 Ask about <b>JavaScript</b>, <b>Python</b>, <b>Discord.js</b>  
-- 📞 Contact: <b>ankush26030@gmail.com</b>  
-- ⚡ Fun: Creating music/security bots that make communities safer and more fun  
+- 🔭 <b>The Developer & Owner</b> — <b>Nothing Development</b>
+- 🌱 Currently learning <b>Python</b> & <b>Rust</b>
+- 🎯 Focus: <b>Discord Bot Development</b>, automation, and moderation tooling
+- 💬 Ask about <b>JavaScript</b>, <b>Python</b>, <b>Discord.js</b>
+- 📞 Contact: <b>ankush26030@gmail.com</b>
+- ⚡ Fun: Creating music/security bots that make communities safer and more fun
 
 ## 🚀 Featured Projects
 <div align="center">
@@ -43,10 +40,10 @@ Building innovative Discord bots and exploring Python & Rust.
 </div>
 
 ### 🎯 Highlights
-- ⚡ <b>Lightning fast</b> command handling & low latency playback  
-- 🛡️ <b>Advanced security</b> with role lock, channel guard, webhook shield  
-- 🎨 <b>User-friendly</b> help menus, buttons, and slash commands  
-- 🔧 <b>Highly configurable</b> per-guild settings and permissions  
+- ⚡ <b>Lightning fast</b> command handling & low latency playback
+- 🛡️ <b>Advanced security</b> with role lock, channel guard, webhook shield
+- 🎨 <b>User-friendly</b> help menus, buttons, and slash commands
+- 🔧 <b>Highly configurable</b> per-guild settings and permissions
 
 ## 🌐 Socials
 <p align="center">
@@ -95,18 +92,12 @@ Building innovative Discord bots and exploring Python & Rust.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvanika&theme=tokyonight" alt="streak"/>
 </p>
 
-<!-- Tip: If public instance rate-limits, deploy your own per docs. -->
-
 ## 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/imvanika">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=imvanika&theme=tokyo-night" alt="activity graph"/>
   </a>
 </p>
-
-## 📦 Pins
-- Pin 🍀 top repos: Music Bot, Prime Music Bot, Flame Antinuke  
-- Add screenshots/gifs in repo READMEs for quick demo  
 
 ---
 
