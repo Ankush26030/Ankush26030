@@ -6,7 +6,7 @@
 <h1 align="center">Hey There 👋, I am Ankush</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imvanika&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ankush26030&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <div align="center">
@@ -83,18 +83,18 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imvanika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvanika&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankush26030&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush26030&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imvanika&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush26030&theme=tokyonight" alt="streak"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <a href="https://github.com/imvanika">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imvanika&theme=tokyo-night" alt="activity graph"/>
+  <a href="https://github.com/Ankush26030">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush26030&theme=tokyo-night" alt="activity graph"/>
   </a>
 </p>
 
