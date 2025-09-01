@@ -17,7 +17,6 @@
 </div>
 
 ## 🙋‍♂️ About Me
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 **The Developer & Owner** — **Nothing Development**
 - 🌱 Currently learning **Python** & **Rust**
