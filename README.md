@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-🚀 **Passionate Developer & Founder of *Nothing Development*** 🚀  
+🚀 **Passionate Developer & Founder of *Nothing Development** 🚀  
 *Building innovative Discord bots and exploring Python & Rust.*
 </div>
 
