@@ -11,7 +11,8 @@
 
 <div align="center">
 🚀 Passionate Developer & Founder of Nothing Development 🚀  
-Building innovative Discord bots and exploring Python & Rust.
+
+  Building innovative Discord bots and exploring Python & Rust.
 </div>
 
 ## 🙋‍♂️ About Me
