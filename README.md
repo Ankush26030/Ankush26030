@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-🚀 **Passionate Developer & Founder of Nothing Development** 🚀  
-**Building innovative Discord bots and exploring Python & Rust.**
+🚀 Passionate Developer & Founder of Nothing Development 🚀  
+Building innovative Discord bots and exploring Python & Rust.
 </div>
 
 ## 🙋‍♂️ About Me
