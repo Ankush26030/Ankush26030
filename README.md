@@ -10,14 +10,11 @@
 </p>
 
 <div align="center">
-  
 🚀 **Passionate Developer & Founder of *Nothing Development*** 🚀  
 *Building innovative Discord bots and exploring Python & Rust.*
-
 </div>
 
 ## 🙋‍♂️ About Me
-
 - 🔭 **The Developer & Owner** — **Nothing Development**
 - 🌱 Currently learning **Python** & **Rust**
 - 🎯 Focus: **Discord Bot Development**, automation, and moderation tooling
@@ -59,7 +56,6 @@
 </p>
 
 ## 💻 Tech Stack
-
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -85,10 +81,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankush26030&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush26030&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush26030&theme=tokyonight" alt="streak"/>
 </p>
 
 ## 📈 Contribution Graph
