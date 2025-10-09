@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="banner"/>
+  <a href="https://app.daily.dev/ankush26030">
+    <img src="https://api.daily.dev/devcards/v2/QBz54Q69laYE5m6aWuc8c.png?r=l9k&type=wide" width="652" alt="Prasenjit Santra (Ankush)'s Dev Card"/>
+  </a>
 </p>
 
 <h1 align="center">Hey There 👋, I am Ankush (Prasenjit Santra)</h1>
@@ -103,14 +105,6 @@ Building innovative Discord bots and exploring Python & Rust.
 <p align="center">
   <a href="https://github.com/Ankush26030">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush26030&theme=tokyo-night" alt="Contribution Graph"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://app.daily.dev/ankush26030">
-    <img src="https://api.daily.dev/devcards/v2/QBz54Q69laYE5m6aWuc8c.png?r=l9k&type=wide" width="652" alt="Prasenjit Santra (Ankush)'s Dev Card"/>
   </a>
 </p>
 
