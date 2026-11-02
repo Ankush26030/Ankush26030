@@ -70,7 +70,7 @@ Education: B.Tech Student in Computer Science
 
 </div>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
