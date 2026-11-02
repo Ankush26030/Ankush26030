@@ -49,7 +49,7 @@ Education: B.Tech Student in Computer Science
 ```
 
 - 🔭 **The Developer & Owner** — **Nothing Development**
-- 🌱 Currently mastering **Python**, **Rust**, and **Go**
+- 🌱 Currently mastering **Python**
 - 🎯 Focus: **Discord Bot Development**, high-concurrency systems, and automation tooling
 - 💬 Ask me about: **JavaScript**, **TypeScript**, **Python**, **Discord.js**, **Backend Architecture**
 - 📞 Contact: **[ankush26030@gmail.com](mailto:ankush26030@gmail.com)**
