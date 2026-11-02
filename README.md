@@ -44,11 +44,14 @@
 ```yaml
 Name: Ankush Santra (ankush.ly)
 Role: Founder Nothing Development
+Age: 23
+Gender: Male
 Location: Kolkata, West Bengal, India
 Education: B.Tech Student in Computer Science
 ```
 
 - 🔭 **The Developer & Owner** — **Nothing Development**
+- 🎮 **Roblox Game Developer** — Creator & scripter of original custom games and experiences on Roblox
 - 🌱 Currently mastering **Python**
 - 🎯 Focus: **Discord Bot Development**, high-concurrency systems, and automation tooling
 - 💬 Ask me about: **JavaScript**, **TypeScript**, **Discord.js**, **Backend Architecture**
