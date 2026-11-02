@@ -17,13 +17,13 @@
 
 <div align="center">
 
-✨ **Passionate Developer & Founder of [Nothing Development](https://discord.gg/hBvdRJgXzM)** ✨  
+✨ **Passionate Developer & Founder of [Nothing Development](https://discord.gg/w77ymEU82a)** ✨  
 *Architecting high-uptime Discord bots, scalable web applications, and automation engines.*
 
 </div>
 
 <p align="center">
-  <a href="https://discord.gg/hBvdRJgXzM" target="_blank">
+  <a href="https://discord.gg/w77ymEU82a" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
   </a>
   <a href="https://discord.com/users/759077474922528859" target="_blank">
@@ -41,6 +41,15 @@
 
 ## 🙋‍♂️ About Me
 
+```yaml
+Name: Ankush Santra (ankush.ly)
+Role: Founder @ Nothing Development
+Location: Kolkata, West Bengal, India
+Education: B.Tech Student in Computer Science
+Specialization: High-uptime Discord Bots, Scalable APIs & Automation
+Current Focus: Deepening Backend Engineering with Rust & Go
+```
+
 - 🔭 **The Developer & Owner** — **Nothing Development**
 - 🌱 Currently mastering **Python**, **Rust**, and **Go**
 - 🎯 Focus: **Discord Bot Development**, high-concurrency systems, and automation tooling
@@ -56,7 +65,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎵 **NOTHING MUSIC BOT** | High-performance lossless audio bot with advanced audio filters, queue control, and 24/7 uptime | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Lavalink](https://img.shields.io/badge/Lavalink-FF5500?style=flat-square&logo=soundcloud&logoColor=white) |
+| 🎵 **NOTHING MUSIC BOT** | High-performance lossless audio bot with advanced audio filters, queue control, and 24/7 uptime | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) |
 | 💎 **NOTHING PREMIUM MUSIC** | Premium music bot with autoplay intelligence, custom playlists, and multi-guild shard scaling | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | 🔥 **FLAME AIO ANTINUKE** | Ultra-fast multipurpose security bot with instant role/permission watch, audit log analysis & auto-recovery | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
@@ -105,27 +114,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankush26030&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_color=89b4fa&border_radius=12" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush26030&layout=compact&langs_count=8&theme=catppuccin_mocha&border_color=89b4fa&border_radius=12" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush26030&theme=catppuccin_mocha&border=89b4fa&border_radius=12" alt="GitHub Streak" width="95%"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Ankush26030">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush26030&theme=tokyo-night&border_color=89b4fa&border_radius=12&area=true" width="95%" alt="Contribution Graph"/>
-  </a>
 </p>
 
 ---
