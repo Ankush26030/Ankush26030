@@ -1,123 +1,140 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  TERMINAL SYSTEM INTERFACE // ANKUSH SANTRA                        -->
+<!--  ANKUSH SANTRA (PRASENJIT SANTRA) — GITHUB PROFILE                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:1e1b4b,100:312e81&height=180&section=header&text=ANKUSH%20SANTRA&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=FOUNDER%20%40%20NOTHING%20DEVELOPMENT%20%7C%20DISCORD%20BOT%20ARCHITECT&descSize=14&descAlignY=68&descColor=93c5fd" width="100%"/>
+  <a href="https://app.daily.dev/ankush26030">
+    <img src="https://api.daily.dev/devcards/v2/QBz54Q69laYE5m6aWuc8c.png?r=l9k&type=wide" width="652" alt="Ankush's Dev Card"/>
+  </a>
 </p>
 
-<!-- Live Status & Socials Bar -->
+<h1 align="center">Hey There 👋, I am Ankush (Prasenjit Santra)</h1>
+
 <p align="center">
-  <a href="https://discord.gg/hBvdRJgXzM"><img src="https://img.shields.io/badge/COMMUNITY-JOIN_GUILD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://discord.com/users/759077474922528859"><img src="https://img.shields.io/badge/DIRECT_CONTACT-ankush.ly-000000?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
-  <a href="https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ=="><img src="https://img.shields.io/badge/FEED-@ankush__26025-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ankush26030@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ankush26030&style=for-the-badge&color=4338ca&label=SYS_HITS" />
+  <img src="https://komarev.com/ghpvc/?username=Ankush26030&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
----
+<div align="center">
 
-### ⚡ System Diagnostics (`whoami --verbose`)
+✨ **Passionate Developer & Founder of [Nothing Development](https://discord.gg/hBvdRJgXzM)** ✨  
+*Architecting high-uptime Discord bots, scalable web applications, and automation engines.*
 
-```bash
-┌──(ankush㉿core-node)-[~]
-└─$ cat << 'EOF' > system_identity.json
-{
-  "operator": "Ankush Santra (ankush.ly)",
-  "organization": "Nothing Development",
-  "status": "Engineering Distributed Discord Microservices",
-  "operating_base": "Kolkata, West Bengal, IN",
-  "academic_track": "B.Tech in Computer Science & Engineering",
-  "mission": [
-    "Ultra-low latency 24/7 audio routing with Lavalink",
-    "Zero-day antinuke mitigation & security automation",
-    "High-throughput concurrency architectures"
-  ]
-}
-EOF
-```
-
----
-
-### 🎛️ Active Production Systems
-
-```
-[SYSTEM 01] ─── NOTHING MUSIC CORE
-  ├─ Status      : 🟢 ONLINE (24/7 High-Availability Audio Pipeline)
-  ├─ Capabilities: Lossless Lavalink Routing, High-Precision DSP Filters, Instant Webhook Queues
-  └─ Engine      : Node.js • Discord.js • Lavalink Audio Nodes
-
-[SYSTEM 02] ─── FLAME AIO DEFENSE SYSTEM
-  ├─ Status      : 🛡️ GUARD ACTIVE (Automated Raid & Threat Neutralization)
-  ├─ Capabilities: Sub-second Audit Trail Recovery, Channel/Role Armor, Webhook Hijack Shield
-  └─ Engine      : Discord.js v14 • MongoDB • Distributed Workers
-
-[SYSTEM 03] ─── NOTHING PRIME ECOSYSTEM
-  ├─ Status      : 💎 ENTERPRISE DEPLOYED
-  ├─ Capabilities: Multi-Shard Horizontal Auto-Scaling, Dynamic Autoplay AI, Custom User Vaults
-  └─ Engine      : Node.js • Redis Pub/Sub • MongoDB Clusters
-```
-
----
-
-### 💻 Technology Matrix
-
-<table>
-  <tr>
-    <td width="25%" valign="top"><strong>Core Languages</strong></td>
-    <td>
-      <code>JavaScript (ESNext)</code> · <code>TypeScript</code> · <code>Python</code> · <code>Rust</code> · <code>Go</code> · <code>Java</code> · <code>Kotlin</code> · <code>C++</code> · <code>C</code> · <code>PHP</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><strong>Application Runtimes</strong></td>
-    <td>
-      <code>Node.js</code> · <code>Discord.js v14</code> · <code>Next.js 14</code> · <code>React</code> · <code>Express.js</code> · <code>REST API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><strong>Data & State Store</strong></td>
-    <td>
-      <code>Redis (In-Memory / Pub-Sub)</code> · <code>MongoDB (NoSQL)</code> · <code>MySQL</code> · <code>SQL Engine</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><strong>DevOps & Tooling</strong></td>
-    <td>
-      <code>Git</code> · <code>GitHub Actions</code> · <code>Lavalink Node</code> · <code>NPM</code> · <code>Linux / Bash</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Telemetry & Live GitHub Metrics
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankush26030&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=0b0f19" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush26030&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush26030&theme=radical&hide_border=true&stroke=38bdf8&background=0b0f19" width="97%" />
+  <a href="https://discord.gg/hBvdRJgXzM" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
+  </a>
+  <a href="https://discord.com/users/759077474922528859" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-My%20Profile-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
+  </a>
+  <a href="https://www.instagram.com/ankush_26025?igsh=MTd3enViN3Uyb2RqbQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ankush26030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🎧 Audio Stream Engine (`/nowplaying`)
+## 🙋‍♂️ About Me
 
-```text
- ⏵ Nothing Music Player ────────────────────────── 03:24 / 04:12
- 🔊  ▂▃▄▅▆▇█  [Lossless FLAC // 1411 kbps]  Auto-Buffer: Synced
-```
+- 🔭 **The Developer & Owner** — **Nothing Development**
+- 🌱 Currently mastering **Python**, **Rust**, and **Go**
+- 🎯 Focus: **Discord Bot Development**, high-concurrency systems, and automation tooling
+- 💬 Ask me about: **JavaScript**, **TypeScript**, **Python**, **Discord.js**, **Backend Architecture**
+- 📞 Contact: **[ankush26030@gmail.com](mailto:ankush26030@gmail.com)**
+- ⚡ Fun Fact: Building lossless 24/7 music systems and enterprise security shields that keep communities thriving
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎵 **NOTHING MUSIC BOT** | High-performance lossless audio bot with advanced audio filters, queue control, and 24/7 uptime | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Lavalink](https://img.shields.io/badge/Lavalink-FF5500?style=flat-square&logo=soundcloud&logoColor=white) |
+| 💎 **NOTHING PREMIUM MUSIC** | Premium music bot with autoplay intelligence, custom playlists, and multi-guild shard scaling | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 🔥 **FLAME AIO ANTINUKE** | Ultra-fast multipurpose security bot with instant role/permission watch, audit log analysis & auto-recovery | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+
+</div>
+
+### 🎯 Project Highlights
+- ⚡ **Lightning Fast** — Asynchronous non-blocking command routers with low latency
+- 🛡️ **Advanced Security** — Role-lock defense, anti-webhook spam, and automated raid mitigation
+- 🎨 **User-Friendly UI** — Sleek discord buttons, select menus, modal popups, and slash commands
+- 🔧 **Highly Configurable** — Granular per-guild permissions and custom server settings
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=100&section=footer" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankush26030&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_color=89b4fa&border_radius=12" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush26030&layout=compact&langs_count=8&theme=catppuccin_mocha&border_color=89b4fa&border_radius=12" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <code>ENGINEERED WITH PASSION BY ANKUSH SANTRA // NOTHING DEVELOPMENT © 2026</code>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush26030&theme=catppuccin_mocha&border=89b4fa&border_radius=12" alt="GitHub Streak" width="95%"/>
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Ankush26030">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush26030&theme=tokyo-night&border_color=89b4fa&border_radius=12&area=true" width="95%" alt="Contribution Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- Animated Aesthetic Gradient Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=120&section=footer" width="100%" alt="Footer Wave"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Designed &amp; Crafted with Passion by <strong>Ankush Santra (Nothing Development)</strong> · © 2026</sub>
+</p>
