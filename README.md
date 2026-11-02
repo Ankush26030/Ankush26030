@@ -46,8 +46,6 @@ Name: Ankush Santra (ankush.ly)
 Role: Founder @ Nothing Development
 Location: Kolkata, West Bengal, India
 Education: B.Tech Student in Computer Science
-Specialization: High-uptime Discord Bots, Scalable APIs & Automation
-Current Focus: Deepening Backend Engineering with Rust & Go
 ```
 
 - 🔭 **The Developer & Owner** — **Nothing Development**
