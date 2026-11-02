@@ -70,16 +70,7 @@ Education: B.Tech Student in Computer Science
 
 </div>
 
-### 🎯 Project Highlights
-
-- ⚡ **Lightning Fast** — Asynchronous non-blocking command routers with low latency
-- 🛡️ **Advanced Security** — Role-lock defense, anti-webhook spam, and automated raid mitigation
-- 🎨 **User-Friendly UI** — Sleek discord buttons, select menus, modal popups, and slash commands
-- 🔧 **Highly Configurable** — Granular per-guild permissions and custom server settings
-
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ### Languages
 
