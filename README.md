@@ -43,7 +43,7 @@
 
 ```yaml
 Name: Ankush Santra (ankush.ly)
-Role: Founder @ Nothing Development
+Role: Founder Nothing Development
 Location: Kolkata, West Bengal, India
 Education: B.Tech Student in Computer Science
 ```
